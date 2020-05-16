@@ -1,5 +1,5 @@
 # An SQL file of the Philippine's regions, provinces, cities, municipalities and barangays
-This data is coming from the excel file published by the [Philippine Standard Geographic Code (PSGC)](https://psa.gov.ph/classification/psgc/). Since they are not releasing data into an SQL format, sharing to you this formatted file by regions, provinces, municipality, city and barangay that is linked with a foreign key. 
+This data is coming from the excel file published by the [Philippine Standard Geographic Code (PSGC)](https://psa.gov.ph/classification/psgc/). Since they are not releasing data into an SQL format, sharing to you this file by regions, provinces, municipality, city and barangay that is linked with a foreign key. 
 
 ## Installation
 You can copy the contents in the sql file and run on your active database sql editor. 
