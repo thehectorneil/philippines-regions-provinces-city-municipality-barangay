@@ -15,7 +15,7 @@ inner join barangay on municipalicity.id = barangay.municipalicity_id
 where barangay.barangay_name = 'Pembo'
 ```
 ## Technical Details
-This sql is dumped from MySQL version 10.1.37-MariaDB
+This sql was dumped from MySQL version 10.1.37-MariaDB
 
 ## Version
 March 31, 2020 - current version
